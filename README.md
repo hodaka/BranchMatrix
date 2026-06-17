@@ -1,5 +1,7 @@
 # BranchMatrix
 
+[![CI](https://github.com/hodaka/BranchMatrix/actions/workflows/ci.yml/badge.svg)](https://github.com/hodaka/BranchMatrix/actions/workflows/ci.yml)
+
 C# ソース（`.cs`）を静的解析し、**メソッドごとに条件分岐の組み合わせチェックシート（Excel）** を生成するオフラインツール。
 
 ## 仕組み
